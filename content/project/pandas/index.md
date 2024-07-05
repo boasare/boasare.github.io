@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: MOD3LTHERM
+date: 2024-09-01
+external_link: https://mod3ltherm.ie/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - MPD3LTHERM
+  - Geothermal Energy
+  - Joint Inversion
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+MOD3LTHERM (MODelling the 3D thermal and Lithospheric Structure of geoTHERMal regions) is a new project which aims to develop new workflows to assess the geothermal potential of regions worldwide.
 
 <!--more-->
