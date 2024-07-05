@@ -1,6 +1,6 @@
 ---
 title: MOD3LTHERM
-date: 2024-09-01
+date: 2024-07-01
 external_link: https://mod3ltherm.ie/
 tags:
   - MPD3LTHERM
