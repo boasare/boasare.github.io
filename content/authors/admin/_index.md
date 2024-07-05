@@ -11,7 +11,7 @@ last_name: Owusu
 
 # Status emoji
 status:
-  icon: 🌍
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -54,7 +54,7 @@ interests:
   - Joint Inversion
   - Multi-Physics Data Interpretation
   - Geothermal Energy
-  - Machine Learning Applications in Seismology
+  - Machine Learning
 
 education:
   - area: PhD Seismology
@@ -67,14 +67,14 @@ education:
     #button:
       #text: 'Read Thesis'
       #url: 'https://example.com'
-  - area: MPhil Geophysics
+  - area: M.Phil. Geophysics
     institution: Kwame Nkrumah University of Science and Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Thesis: Multi-attribute seismic facies analysis with machine learning for reservoir characterization. 
       Supervisor: Dr Cyril D. Boateng.   
-  - area: BSc Physics
+  - area: B.Sc. Physics
     institution: Kwame Nkrumah University of Science and Technology
     date_start: 2016-09-09
     date_end: 2020-08-01
