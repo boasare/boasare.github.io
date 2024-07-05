@@ -3,7 +3,7 @@ title: MOD3LTHERM
 date: 2024-07-01
 external_link: https://mod3ltherm.ie/
 tags:
-  - Mod3ltherm
+  - MOD3LTHERM
   - Geothermal Energy
   - Joint Inversion
 ---
