@@ -5,8 +5,8 @@ date: 2024-05-26
 authors:
   - admin
 tags:
+  - DIAS
   - DIASGeophysics
-  - (#)DIASDiscovers
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
