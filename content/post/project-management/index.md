@@ -5,8 +5,8 @@ date: 2024-05-26
 authors:
   - admin
 tags:
-  - Hugo Blox
-  - Markdown
+  - DIASGeophysics
+  - (#)DIASDiscovers
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
