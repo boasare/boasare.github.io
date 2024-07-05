@@ -52,7 +52,7 @@ profiles:
 
 interests:
   - Joint Inversion
-  - Multi-Physics Data Interpretation
+  - Multi-Physics Analysis
   - Geothermal Energy
   - Machine Learning
 
