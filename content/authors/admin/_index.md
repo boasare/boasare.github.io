@@ -112,11 +112,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: MATLAB
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Microsoft Office Suite
         description: ''
         percent: 40
         icon: circle-stack
